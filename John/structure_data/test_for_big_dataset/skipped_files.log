@@ -1,0 +1,42 @@
+./json_dir/cluster_array.json: Top-level JSON is not an object
+./json_dir/mp-1033614_Cr.json: One or more top-level keys are empty
+./json_dir/mp-1176453_Cr.json: One or more top-level keys are empty
+./json_dir/mp-1177394_Cr.json: One or more top-level keys are empty
+./json_dir/mp-1177396_Cr.json: Missing or empty required key 'Avg Spectral Anisotropy Matrix'
+./json_dir/mp-1177494_Cr.json: Missing or empty required key 'Avg Spectral Anisotropy Matrix'
+./json_dir/mp-1177657_Cr.json: Missing or empty required key 'Avg Spectral Anisotropy Matrix'
+./json_dir/mp-1183695_Cr.json: One or more top-level keys are empty
+./json_dir/mp-1183719_Cr.json: Missing or empty required key 'Avg Spectral Anisotropy Matrix'
+./json_dir/mp-1212351_Cr.json: Missing or empty required key 'Avg Spectral Anisotropy Matrix'
+./json_dir/mp-1213733_Cr.json: One or more top-level keys are empty
+./json_dir/mp-1218600_Cr.json: Missing or empty required key 'Avg Spectral Anisotropy Matrix'
+./json_dir/mp-1218634_Cr.json: One or more top-level keys are empty
+./json_dir/mp-1218882_Cr.json: Missing or empty required key 'Avg Spectral Anisotropy Matrix'
+./json_dir/mp-1221988_Cr.json: One or more top-level keys are empty
+./json_dir/mp-1226307_Cr.json: One or more top-level keys are empty
+./json_dir/mp-1247595_Cr.json: One or more top-level keys are empty
+./json_dir/mp-1247598_Cr.json: One or more top-level keys are empty
+./json_dir/mp-1247658_Cr.json: One or more top-level keys are empty
+./json_dir/mp-1369597_Cr.json: Missing or empty required key 'Avg Spectral Anisotropy Matrix'
+./json_dir/mp-1518724_Cr.json: One or more top-level keys are empty
+./json_dir/mp-1570812_Cr.json: One or more top-level keys are empty
+./json_dir/mp-2214497_Cr.json: Missing or empty required key 'Avg Spectral Anisotropy Matrix'
+./json_dir/mp-540219_Cr.json: Missing or empty required key 'Avg Spectral Anisotropy Matrix'
+./json_dir/mp-559339_Cr.json: Missing or empty required key 'Avg Spectral Anisotropy Matrix'
+./json_dir/mp-698567_Cr.json: Missing or empty required key 'Avg Spectral Anisotropy Matrix'
+./json_dir/mp-754129_Cr.json: One or more top-level keys are empty
+./json_dir/mp-754350_Cr.json: One or more top-level keys are empty
+./json_dir/mp-754504_Cr.json: One or more top-level keys are empty
+./json_dir/mp-755134_Cr.json: One or more top-level keys are empty
+./json_dir/mp-755815_Cr.json: One or more top-level keys are empty
+./json_dir/mp-756602_Cr.json: One or more top-level keys are empty
+./json_dir/mp-757257_Cr.json: One or more top-level keys are empty
+./json_dir/mp-757340_Cr.json: Missing or empty required key 'Avg Spectral Anisotropy Matrix'
+./json_dir/mp-765119_Cr.json: One or more top-level keys are empty
+./json_dir/mp-769632_Cr.json: One or more top-level keys are empty
+./json_dir/mp-770492_Cr.json: Missing or empty required key 'Avg Spectral Anisotropy Matrix'
+./json_dir/mp-770529_Cr.json: Missing or empty required key 'Avg Spectral Anisotropy Matrix'
+./json_dir/mp-770660_Cr.json: Missing or empty required key 'Avg Spectral Anisotropy Matrix'
+./json_dir/mp-771190_Cr.json: One or more top-level keys are empty
+./json_dir/mp-778074_Cr.json: Missing or empty required key 'Avg Spectral Anisotropy Matrix'
+./json_dir/mp-779361_Cr.json: Missing or empty required key 'Avg Spectral Anisotropy Matrix'
